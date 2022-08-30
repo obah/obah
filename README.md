@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @obah
-- 👀 I’m interested in web3 development
-- 🌱 I’m currently learning solidity and smart contract development
+- 👋 Hi, I’m Obaloluwa, a fullstack web developer and smart contract engineer 
+- 👀 I’m interested in blockchain and web development
+- 🌱 The programming languages I use are Javascript, NodeJs, React, NextJs, Solidity, Ethers.Js
 - 💞️ I’m looking to collaborate on an web3 projects
 - 📫 How to reach me; obaloluwaolusoji@gmail.com
 
