@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchain and web development
 - 🌱 The programming languages I use are Javascript/Typescript, NodeJs, React, NextJs, MondoDb, Solidity, Ethers.Js
 - 💞️ I’m looking to collaborate on an web3 projects
-- 📫 How to reach me; obaloluwaolusoji@gmail.com
+- 📫 How to reach me; hello@obaloluwa.com
 
 <!---
 obah/obah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
