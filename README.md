@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Obaloluwa, a frontend web developer and smart contract engineer 
-- 👀 I’m interested in frontend web development and smart contract development 
-- 🌱 The programming languages I use are Javascript/Typescript, NodeJs, React, NextJs, SASS, Tailwind, MondoDb, Solidity, Ethers.Js
-- 💞️ I’m looking to collaborate on projects in fintech, web3 and other fields
+- 👋 Hi, I’m Obaloluwa, a frontend web developer, smart contract engineer and zero knowledge enthusiast
+- 👀 I’m currently interested in smart contract development and Zero Knowledge research
+- 🌱 The programming languages I use are Rust, Solidity, Cairo, Noir, Javascript/Typescript, React, NextJs
+- 💞️ I’m looking to collaborate on projects in web3 and other fields
 - 📫 How to reach me; obaloluwaolusoji@gmail.com
 
 <!---
